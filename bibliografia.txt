@@ -1,0 +1,43 @@
+<!DOCTYPE html >
+< html  lang =" es " >
+< cabeza >
+    < meta  juego de caracteres =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " contenido =" IE=edge " >
+    < meta  nombre =" ventana gráfica " contenido =" ancho = ancho del dispositivo, escala inicial = 1,0 " >
+    < título > Biografía - Maria Cristina Santana  </ título >
+    < enlace  href =" stylos.css " rel =" hoja de estilo "/>
+</cabeza> _ _
+< cuerpo >
+        < tabla >
+            < div  clase =" imagen " >
+                < h1 >Maria Cristina Santana Santana  </ h1 >
+                < img  src =" yefra photo.jpg " alt =" Maria Cristina Santana  " ancho =" 200px "/>
+                </div> _ _
+                < p > Mi nombre es Maria Cristina Santana, naci el 6 de marzo de 1997 en la provincia de bahoruco
+                   estudiante de Lic. en Informática en la UASD (Universidad Autónoma de Santo Domingo).
+                   actuarmente tengo una hermosa bebe llamada adrehia y una en camino, casada
+                   amante a la soledad y tranquilidad,
+                    
+                </p> _ _
+                <div> _ _
+                    < hora  clase =" hora1 " >
+                    < h2 > Horario de Clases </ h2 >
+            < tr  class =" letra " >
+                < th > Lunas </ th >
+                < th > Martes </ th >
+                < th > Miércoles </ th >
+                < th > Jueves </ th >
+                < th > viernes </ th >
+            </tr> _ _
+            < tr >
+                < td > 4pm-6:50pm < hr /> Mat Discreta </ ​​td >
+                <td> 6 pm-7:50pm < hr / > algoitmo computacional </td> _
+                < td > 7 am-8:50 am < hr /> Laboratorio. Programación III </td> _
+                < td > 8pm.-10:00 pm < hr /> lenguaje de programacion III </ td >
+            </tr> _ _
+            < tr>
+            </tr> _ _
+        </ tabla >
+    </div> _ _
+</cuerpo> _ _
+</html> _ _
